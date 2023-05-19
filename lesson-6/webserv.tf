@@ -64,6 +64,6 @@ resource "aws_security_group" "my_webserver" {
 
   tags = {
     Name  = "Web Server SecurityGroup"
-    Owner = "Denis Astahov"
+    Owner = "Roman Skrylnyk"
   }
 }
